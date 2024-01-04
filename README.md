@@ -12,4 +12,9 @@
 
 # Exercises 2. with Thomson & Alpay
 
-### first we testing push and pull
+#### first we testing push and pull
+
+
+#### Added image by Thomson
+
+![imagelink](https://image.stern.de/33597858/t/Jk/v1/w1440/r0/-/27--artikel27511bild01jpg---c1248fc17d45a7f1.jpg)
