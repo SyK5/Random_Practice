@@ -43,3 +43,6 @@
 ## Defination of a word from Alpay
 
 ### Word is Word.
+
+
+#### ...note update  deleting unnecessary file
