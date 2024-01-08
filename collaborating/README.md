@@ -8,7 +8,7 @@
 | Name |Age| Favourite color | Favourite Language | Favourite Restaurants|
 |Alpay Sahin|25|Black / Black + red|Turkisch|Kebab / india / japanese|
 |||Black + blue|||
-|Thomson|27|Black|Ghana|Rice|
+|Thomson|27|Black|Twi+Ewe|Jollof rice|
 
 ## My favourite recipe dish from Alpay
 
@@ -46,3 +46,19 @@
 
 
 #### ...note update  deleting unnecessary file
+
+## My favourite recipe dish from
+
+### WHAT YOU NEED:
+
+
+    6 large tomatoes
+    4 large onions
+    6 cloves of pressed garlic
+    2 chillies (optional)
+    2 tablespoons of tomato paste
+    vegetable oil
+    500g of beef, chicken or lamb (alt: mixed vegetables)
+    800g long grain rice
+    1,5 litres of water or stock (± 1 stock cube, depending on how much meat is used)
+    1 teaspoon each of ground white and black pepper
