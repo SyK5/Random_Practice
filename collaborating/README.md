@@ -45,6 +45,8 @@
 ### Word is Word.
 
 
+# Thomson 
+
 #### ...note update  deleting unnecessary file
 
 ## My favourite recipe dish from
@@ -62,3 +64,6 @@
     800g long grain rice
     1,5 litres of water or stock (± 1 stock cube, depending on how much meat is used)
     1 teaspoon each of ground white and black pepper
+
+
+### Word is Word.
